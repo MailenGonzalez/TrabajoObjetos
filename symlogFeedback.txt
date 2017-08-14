@@ -1,0 +1,26 @@
+Buscaron éxito financiero individual, prominencia personal y poder.;1-
+Buscaron popularidad y éxito social, ser querido y admirado.;2-
+Prefirieron el trabajo en equipo activo dirigido a metas comunes, unidad organizacional.;3-
+Buscaron la eficiencia, administración imparcial estricta.;4-
+Buscaron el reforzamiento activo a la autoridad, repaso de reglas y regulaciones.;5-
+Mantuvieron firmeza, obstinación y constancia para cumplir un objetivo, asertividad auto-orientada.;6-
+Fueron vigorosos, individualismo auto-orientado, resistencia a la autoridad.;7-
+Buscaron pasarla bien, renunciar a la tensión, control relajante.;8-
+Buscaron proteger a los miembros menos capaces, proveer ayuda cuando se necesita.;9-
+Buscaron igualdad, participación democrática en la toma de decisión.;10-
+Tuvieron un idealismo responsable, trabajo colaborativo.;11-
+Fueron conservadores, establecido, prefirieron las formas correctas de hacer las cosas.;12-
+Reprimieron sus deseos individuales por las metas organizacionales.;13-
+Buscaron la auto-protección, primero el interés personal, ser auto-suficiente.;14-
+Rechazaron los procedimientos establecidos, rechazaron la conformidad.;15-
+Cambiaron a nuevos procedimientos, diferentes valores, creatividad.;16-
+Buscaron amistad, placer mutuo, recreación.;17-
+Buscaron confianza en la bondad de otros.;18-
+Trabajaron con dedicación, confianza, fueron leal al equipo;19-
+Obedecieron a la cadena de mando, fueron complaciente con la autoridad.;20-
+Hicieron auto-sacrificio si es necesario para alcanzar las metas organizacionales.;21-
+Tuvieron un rechazo pasivo a la popularidad.;22-
+Admitieron un error, dejas de esforzarte en defender trabajo mal hecho;23-
+Tuvieron actitudes de no-cooperación pasiva con la autoridad.;24-
+Buscaron satisfacción, se lo tomaron con calma.;25-
+Renunciaron a sus necesidades personales y deseos, pasividad.;25-

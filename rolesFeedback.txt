@@ -1,0 +1,8 @@
+Implementador,implementer
+Coordinador,coordinator
+Impulsor,shaper
+Cerebro,plant
+Investigador de Recursos,resourceInvestigator
+Monitor,monitor
+Cohesionador,teamWorker
+Finalizador,Completer

@@ -1,0 +1,89 @@
+si lo practico;1;1
+si pienso en ello;1;-1
+Innovador;2;1
+Realista;2;-1
+Una imagen;3;1
+Palabras;3;-1
+Entender los detalles de un tema pero no ver claramente su estructura;4;1
+Entender la estructura completa pero no ver claramente los detalles;4;-1
+Hablar de ello;5;1
+Pensar en ello;5;-1
+Que trate sobre hechos y situaciones reales de la vida;6;1
+Que trate con ideas y teorías;6;-1
+Imágenes, diagramas, gráficas o mapas;7;1
+Instrucciones escritas o información visual;7;-1
+Todas las partes, entiendo el total;8;1
+el total de algo, entiendo como encajan sus partes;8;-1
+Participe y contribuya con ideas;9;1
+No participe y sólo escuche;9;-1
+Aprender hechos;10;1
+Aprender conceptos;10;-1
+Revise cuidadosamente las imágenes y las gráficas;11;1
+Me concentre en el texto escrito;11;-1
+Generalmente trabajo sobre las soluciones con un paso a la vez;12;1
+Frecuentemente sé cuales son las soluciones, pero luego tengo dificultad para imaginarme los pasos para llegar a ellas;12;-1
+He llegado a saber como son muchos de los estudiantes;13;1
+Raramente he llegado a saber cómo son muchos estudiantes;13;-1
+Algo que me enseñe nuevos hechos o me diga cómo hacer algo;14;1
+Algo que me dé nuevas ideas en que pensar;14;-1
+Que utilizan muchos esquemas en el pizarrón;15;1
+Que toman mucho tiempo para explicar;15;-1
+Pienso en los incidentes y trato de acomodarlos para configurar los temas;16;1
+Me dy cuenta de cuáles son los temas cuando termino de leer y luego tengo que regresar y encontrar los incidentes que los demuestran;16;-1
+Comience a trabajar en su solución inmediatamente;17;1
+Primero trate de entender completamente el problema;17;-1
+Certeza;18;1
+Teoría;18;-1
+lo que veo;19;1
+lo que hago;19;-1
+Exponga el material en pasos secuenciales claros;20;1
+Me den un panorama general y relacione el material con otros temas;20;-1
+En un grupo de estudio;21;1
+Sólo;21;-1
+Cuidadoso en los detalles de mi trabajo;22;1
+Creativo en la forma en la que hago mi trabajo;22;-1
+Un mapa;23;1
+Instrucciones escritas;23;-1
+A un paso constante. Si estudio con ahinco consigo lo que deseo;24;1
+En inicios y pausas. Mellego a confundiry súbitamente lo entiendo;24;-1
+Hacer algo y ver qué sucede;25;1
+Pensar cómo voy a hacer algo;25;-1
+Dicen claramente lo que desean dar a entender;26;1
+Dicen las cosas en forma creativa e interesante;26;-1
+La imágen;27;1
+lo que el profesor dijo acerca de ella;27;-1
+Me concentro en los detalles y pierdo de vista el total de la misma;28;1
+Trato de entender el todo antes de ir a los detalles;28;-1
+Algo que he hecho;29;1
+Algo en lo que he pesado mucho;29;-1
+dominar una forma de hacerlo;30;1
+intentar nuevas formas de hacerlo;30;-1
+gráficas;31;1
+resúmenes con texto;31;-1
+Lo haga (piense y escriba) desde el principio y avance;32;1
+lo haga (piense y escriba) en diferentes partes y luego las ordene;32;-1
+realizar una \tormenta de ideas\ donde cada uno contribuye con ideas;33;1
+realizar la \tormenta de ideas\ en forma personal y luego juntarme con el grupo para comparar las ideas;33;-1
+sensible;34;1
+imaginativo;34;-1
+cómo es su apariencia;35;1
+lo que dicen de si mismos;35;-1
+mantenerme concentrado en ese tema, aprendiendo lo más que pueda de él;36;1
+hacer conexiones entre ese tema y temas relacionados;36;-1
+Abierto;37;1
+Reservado;37;-1
+material concreto (hechos y datos);38;1
+material abstracto (conceptos y teorías);38;-1
+Ver televisión;39;1
+Leer un libro;39;-1
+algo útiles para mi;40;1
+muy útiles para mi;40;-1
+Me parece bien;41;1
+No me parece bien;41;-1
+Tiendo a repetir todos mis pasos y revisar cuidadosamente mi trabajo;42;1
+Me cansa hacer su revisión y tengo que esforzarme para hacerlo;42;-1
+Fácilmente y con bastante exactitud;43;1
+Con dificultad y sin mucho detalle;43;-1
+Piense en los pasos para la solución de los problemas;44;1
+Piense en las posibles consecuencias o aplicaciones de la solución en un aplio rango de campos;44;-1
+BLANK;1;0
